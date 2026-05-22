@@ -1,0 +1,2 @@
+[console_scripts]
+audit-securite = audit_securite.main:app
