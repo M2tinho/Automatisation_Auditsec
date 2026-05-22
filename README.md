@@ -1,2 +1,4 @@
 # Automatisation_Auditsec
-code avec plusieurs fonction permettant la verification de fichier issu d'un Chemin
+
+Vérification et tries de fichier (txt, xml) suceptible d'être vulnérable.
+
